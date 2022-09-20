@@ -1,1 +1,12 @@
 This demo code for 23 july
+
+
+we are writing a git functionality
+
+topics covered 
+oops 
+collection
+string 
+Db
+
+need to update code 
