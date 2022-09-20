@@ -7,6 +7,6 @@ topics covered
 oops 
 collection
 string 
-Db
+
 
 need to update code 
